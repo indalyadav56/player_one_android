@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Player One</string>
+    <string name="video_title">Video</string>
+    <string name="audio_title">Audio</string>
+    <string name="images_title">Images</string>
+    <string name="settings_title">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="refresh">Refresh</string>
+    <string name="share">Share</string>
+    <string name="feedback">Feedback</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="play">Play</string>
+    <string name="info">Information</string>
+    <string name="repeat_one">Repeat One</string>
+</resources>
